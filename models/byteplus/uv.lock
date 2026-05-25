@@ -1142,7 +1142,7 @@ wheels = [
 ]
 
 [[package]]
-name = "volcengine"
+name = "byteplus"
 version = "0.0.1"
 source = { virtual = "." }
 dependencies = [

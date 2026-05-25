@@ -1,7 +1,7 @@
 [project]
-name = "volcengine"
+name = "byteplus"
 version = "0.0.1"
-description = "Volcengine Ark base-model invocation"
+description = "BytePlus ModelArk multimodal model invocation"
 readme = "README.md"
 requires-python = ">=3.12"
 
